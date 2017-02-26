@@ -2,7 +2,7 @@
 Analysis and Implementation on Machine Learning Models and Methods for HKU Course COMP3314 by Dr. Li-Yi Wei.
 
 ## Introduction
-The Exercises include rigurous analysis of certain machine learning models, as well as implementation of them in python (sklearn and keras). View __[Here](https://irsisyphus.github.io/ML-Exercises "Machine Learning Exercises")__ for a user-friendly revision of the course and my work. The original course pages are from [1iyiwei/pyml](https://github.com/1iyiwei/pyml/wiki "1iyiwei/pyml").
+The Exercises include rigurous analysis of certain machine learning models, as well as implementation of them in python (sklearn and keras). View __[Here](https://irsisyphus.github.io/machine-learning "Machine Learning Exercises")__ for a user-friendly revision of the course and my work. The original course pages are from [1iyiwei/pyml](https://github.com/1iyiwei/pyml/wiki "1iyiwei/pyml").
 
 ## Contents
 `1 Warmup.ipynb`: Sorting and Line fitting
