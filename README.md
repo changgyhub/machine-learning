@@ -9,13 +9,13 @@ The Exercises include rigurous analysis of certain machine learning models, as w
 
 `2 Perceptron and SGD.ipynb`: Linear perceptron and SGD
 
-`3 Kernel, Bayes and Models.ipynb`: RBF kernel, Kernel SVM complexity, Derive Gaussian density Bayes, and Digit classification
+`3 Kernel, Bayes and Models.ipynb`: RBF kernel, Kernel SVM Complexity, Derive Gaussian Bayes, and Basic Classifiers
 
 `4 Data Processing.ipynb`: Sequential feature selection and PCA versus LDA
 
 `5 Training and Ensemble.ipynb`: K-fold validation, Precision-recall curve, and Ensemble learning
 
-`6 Cluster and CNN.ipynb`: Clustering for handwritten digits and CNN on Cifar-10 (We use Wide ResNet and acheieved 94%)
+`6 Cluster and CNN.ipynb`: Clustering for Digits and CNN on Cifar-10 (We use Wide ResNet and acheieved 94%)
 
 
 ## Highlights
