@@ -9,7 +9,7 @@ The Exercises include rigurous analysis of certain machine learning models, as w
 
 `2 Perceptron and SGD.ipynb`: Linear perceptron and SGD
 
-`3 Kernel, Bayes and Models.ipynb`: RBF kernel, Kernel SVM Complexity, Derive Gaussian Bayes, and Basic Classifiers
+`3 Kernel, Bayes and Models.ipynb`: RBF kernel, Kernel SVM Complexity, Gaussian Bayes, and Basic Classifiers
 
 `4 Data Processing.ipynb`: Sequential feature selection and PCA versus LDA
 
