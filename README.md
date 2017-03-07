@@ -19,8 +19,8 @@ The Exercises include rigurous analysis of certain machine learning models, as w
 
 
 ## Highlights
-<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl1.png" width = "440" height = "200" alt="highlight1" />
-<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl2.png" width = "367" height = "200" alt="highlight2" />
+<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl1.png" width = 400 alt="highlight1" />
+<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl2.png" width = 400 alt="highlight2" />
 
-<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl3.png" width = "423" height = "200" alt="highlight3"/>
-<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl4.png" width = "268" height = "200" alt="highlight4"/>
+<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl3.png" width = 400 alt="highlight3"/>
+<img src="https://github.com/irsisyphus/pictures/raw/master/ML-Exercises/hl4.png" width = 400 alt="highlight4"/>
